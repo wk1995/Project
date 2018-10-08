@@ -1,0 +1,1 @@
+include ':app',':common', ':libec_annotations', ':ec_core', ':ec', ':ec_compiler'
